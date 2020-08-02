@@ -18,12 +18,12 @@ displayURL="http://example.com/" #optional
 
 logoFile="logo.png" #optional
 
-credits="Thanks to my incredible subscribers!" #optional
+credits="Yeah Yeah"
 
-authors="TechnoVision" #optional
+authors="Yeah Yeah" #optional
 
 description='''
-A tutorial mod for my youtube channel.
+Yeah Yeah
 '''
 
 [[dependencies.examplemod]] #optional
